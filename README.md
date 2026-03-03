@@ -1,4 +1,4 @@
-# PLC Projects Portfolio – Noah
+# PLC Projects Portfolio – Noah Martin
 
 Welcome! This is my growing collection of **professional-grade PLC projects** built entirely in **CODESYS 3.5+** using only the free built-in Simulator (no hardware needed).
 
